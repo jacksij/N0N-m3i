@@ -1,0 +1,67 @@
+Manifest-Version: 1.0
+Built-By: avin
+Class-Path: lib/spring-2.5.jar lib/spring-core-2.0.6.jar lib/jcommon-1
+ .0.24.jar lib/jfreechart-1.0.19.jar lib/core-3.3.0-v_771.jar lib/reso
+ urces-3.3.0-v20070604.jar lib/expressions-3.3.0-v20070606-0010.jar li
+ b/runtime-3.10.0-v20140318-2214.jar lib/osgi-3.10.0-v20140606-1445.ja
+ r lib/common-3.6.200-v20130402-1505.jar lib/jobs-3.6.0-v20140424-0053
+ .jar lib/registry-3.5.400-v20140428-1507.jar lib/preferences-3.5.200-
+ v20140224-1527.jar lib/contenttype-3.4.200-v20140207-1251.jar lib/app
+ -1.3.200-v20130910-1609.jar lib/filesystem-1.1.0-v20070606.jar lib/te
+ xt-3.3.0-v20070606-0010.jar lib/commands-3.3.0-I20070605-0010.jar lib
+ /commons-beanutils-1.9.3.jar lib/commons-digester-2.1.jar lib/itext-2
+ .1.7.jar lib/bcmail-jdk14-138.jar lib/bcprov-jdk14-138.jar lib/bctsp-
+ jdk14-1.38.jar lib/bcprov-jdk14-1.38.jar lib/bcmail-jdk14-1.38.jar li
+ b/poi-3.10.1.jar lib/barcode4j-2.1.jar lib/avalon-framework-impl-4.2.
+ 0.jar lib/commons-cli-1.0.jar lib/ant-1.7.1.jar lib/ant-launcher-1.7.
+ 1.jar lib/commons-codec-1.10.jar lib/velocity-1.7.jar lib/oro-2.0.8.j
+ ar lib/commons-collections-3.2.2.jar lib/commons-lang-2.6.jar lib/bsh
+ -2.0b4.jar lib/rxtxcomm-2.2.jar lib/jpos-2.0.10.jar lib/jdom2-2.0.6.j
+ ar lib/jdbm-1.0.jar lib/jline-3.1.1.jar lib/javatuples-1.2.jar lib/or
+ g.osgi.core-6.0.0.jar lib/bcprov-jdk15on-1.55.jar lib/bcpg-jdk15on-1.
+ 55.jar lib/sshd-core-1.2.0.jar lib/slf4j-api-1.7.21.jar lib/slf4j-nop
+ -1.7.21.jar lib/swingx-all-1.6.5-1.jar lib/axis-1.4.jar lib/axis-saaj
+ -1.4.jar lib/axis-jaxrpc-1.4.jar lib/saaj-api-1.3.5.jar lib/axis-wsdl
+ 4j-1.5.1.jar lib/commons-discovery-0.5.jar lib/commons-logging-1.2.ja
+ r lib/swing-layout-1.0.3.jar lib/javacsv-2.0.jar lib/AbsoluteLayout-R
+ ELEASE82.jar lib/jpos-1.13.jar lib/mysql-connector-java-5.1.39.jar li
+ b/derby-10.10.2.0.jar lib/xml-apis-1.0.b2.jar lib/posapps-client-1.2-
+ exe.jar lib/junit-4.11.jar lib/hamcrest-core-1.3.jar lib/jsr311-api-1
+ .1.1.jar lib/jersey-bundle-1.9-ea04.jar lib/jersey-multipart-1.15.jar
+  lib/mimepull-1.6.jar lib/jersey-core-1.15.jar lib/javafx-2.2.4.jar l
+ ib/mail-1.4.7.jar lib/activation-1.1.jar lib/gson-2.2.2.jar lib/json-
+ simple-1.1.1.jar lib/log4j-1.2.17.jar lib/jasypt-1.9.1.jar lib/httpcl
+ ient-4.0-alpha4.jar lib/httpcore-4.0-beta1.jar lib/slf4j-log4j12-1.6.
+ 2.jar lib/bluecove-2.1.1.jar lib/bluecove-gpl-2.1.0.jar lib/kxml2-2.3
+ .0.jar lib/backport-util-concurrent-3.1.jar lib/commons-io-2.4.jar li
+ b/fop-2.1.jar lib/xmlgraphics-commons-2.1.jar lib/batik-svg-dom-1.8.j
+ ar lib/batik-css-1.8.jar lib/batik-dom-1.8.jar lib/batik-parser-1.8.j
+ ar lib/batik-util-1.8.jar lib/xml-apis-ext-1.3.04.jar lib/batik-bridg
+ e-1.8.jar lib/batik-anim-1.8.jar lib/batik-script-1.8.jar lib/batik-x
+ ml-1.8.jar lib/xalan-2.7.0.jar lib/batik-awt-util-1.8.jar lib/batik-g
+ vt-1.8.jar lib/batik-transcoder-1.8.jar lib/batik-svggen-1.8.jar lib/
+ batik-extension-1.8.jar lib/batik-ext-1.8.jar lib/avalon-framework-ap
+ i-4.3.1.jar lib/avalon-framework-impl-4.3.1.jar lib/jasperreports-6.4
+ .0.jar lib/castor-xml-1.3.3.jar lib/castor-core-1.3.3.jar lib/javax.i
+ nject-1.jar lib/stax-1.2.0.jar lib/stax-api-1.0.1.jar lib/stax-api-1.
+ 0-2.jar lib/spring-context-3.0.6.RELEASE.jar lib/spring-aop-3.0.6.REL
+ EASE.jar lib/aopalliance-1.0.jar lib/spring-beans-3.0.6.RELEASE.jar l
+ ib/spring-expression-3.0.6.RELEASE.jar lib/spring-asm-3.0.6.RELEASE.j
+ ar lib/jackson-core-2.1.4.jar lib/jackson-databind-2.1.4.jar lib/jack
+ son-annotations-2.1.4.jar lib/lucene-core-4.5.1.jar lib/lucene-analyz
+ ers-common-4.5.1.jar lib/lucene-queryparser-4.5.1.jar lib/lucene-quer
+ ies-4.5.1.jar lib/lucene-sandbox-4.5.1.jar lib/jakarta-regexp-1.4.jar
+  lib/olap4j-0.9.7.309-JS-3.jar lib/core-3.2.1.jar lib/icu4j-57.1.jar 
+ lib/jasperreports-fonts-6.0.0.jar lib/ecj-4.6.1.jar lib/joda-time-2.9
+ .7.jar lib/weblaf-1.2.9.jar lib/persistence-api-1.0.2.jar lib/OneWire
+ API-0.1.jar lib/usb4java-1.2.0.jar lib/libusb4java-1.2.0-linux-x86.ja
+ r lib/libusb4java-1.2.0-linux-x86_64.jar lib/libusb4java-1.2.0-linux-
+ arm.jar lib/libusb4java-1.2.0-windows-x86.jar lib/libusb4java-1.2.0-w
+ indows-x86_64.jar lib/libusb4java-1.2.0-osx-x86.jar lib/libusb4java-1
+ .2.0-osx-x86_64.jar lib/commons-lang3-3.2.1.jar lib/usb-api-1.0.2.jar
+  lib/jdatepicker-1.3.4.jar lib/je-5.0.73.jar lib/kotlin-stdlib-1.0.1-
+ 2.jar lib/kotlin-runtime-1.0.1-2.jar
+Build-Jdk: 1.8.0_121
+Created-By: Maven Integration for Eclipse
+Main-Class: com.openbravo.pos.forms.StartPOS
+
